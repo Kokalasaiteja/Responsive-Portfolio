@@ -49,7 +49,7 @@ Upload to GitHub Pages or use Netlify/Vercel for free hosting.
 
 # 📷 Screenshots
 
-[Home Page](https://i.imgur.com/yourimage.jpg)
+[Home Page]![Screenshot 2025-06-03 052743](https://github.com/user-attachments/assets/0164ec6e-68af-475c-8cda-24e783abf43c)
 
 # 🧑‍💻 Author
 
