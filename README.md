@@ -2,6 +2,8 @@
 
 This is a responsive and modern portfolio website built using **HTML**, **CSS**, and **JavaScript**. It showcases projects, skills, contact details, and more, with a clean UI and smooth user experience.
 
+## [Click To Visit My Portofolio](https://kokalasaiteja.github.io/Responsive-Portfolio/)
+
 ## [Watch it on youtube](https://youtu.be/AKNvTxWOdKw)
 
 ## 🚀 Features
@@ -18,14 +20,23 @@ This is a responsive and modern portfolio website built using **HTML**, **CSS**,
 
 ## 📁 Folder Structure
 
-portfolio/
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│ └── images/
-│ └── icons/
-└── README.md
+Responsive-Portfolio/ <br>
+├── index.html <br>
+├── assets/ <br>
+│ └── css/ <br>
+│ │    └── style.css <br>
+│ └── docs/ <br>
+│ │    └── KST Resume.pdf <br>
+│ └── js <br>
+│ │    └── main.js <br>
+│ └── img/ <br>
+│ │    └── about.png <br>
+│ │    └── profile.png <br>
+│ │    └── project1.png <br>
+│ │    └── project2.png <br>
+│ └── scss/ <br>
+│      └── styles.scss <br>
+└── README.md <br>
 
 # 📌 To Do
  Add dark mode toggle using JavaScript
@@ -40,7 +51,7 @@ Layouts built with accessibility and scalability in mind.
 # 🧪 How to Run
 Clone this repo:
 
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/yourusername/portfolio.git <br>
 Open index.html in any browser.
 
 To deploy:
@@ -53,9 +64,9 @@ Upload to GitHub Pages or use Netlify/Vercel for free hosting.
 
 # 🧑‍💻 Author
 
-Kokala Sai Teja
-B.Tech CSE | Specilization AI & ML
-📧 [kokalasaiteja@gmail.com](mailto:kokalasaiteja@gmail.com)
+Kokala Sai Teja  <br>
+B.Tech CSE | Specilization AI & ML <br>
+📧 [kokalasaiteja@gmail.com](mailto:kokalasaiteja@gmail.com) <br>
 
 # 📜 License
 
