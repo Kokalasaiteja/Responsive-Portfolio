@@ -68,9 +68,9 @@ Upload to GitHub Pages or use Netlify/Vercel for free hosting.
 
 Kokala Sai Teja  <br>
 B.Tech CSE | Specilization AI & ML <br>
+🔗 LinkedIn : https://linkedin.com/in/kokala-sai-teja-245a12299 <br>
 📧 [kokalasaiteja@gmail.com](mailto:kokalasaiteja@gmail.com) <br>
 
 ## 📜 License
 
-This project is open-source and available under the MIT License
-© Kokalasaiteja_coder | All rights reserved
+This project is open-source and available under the MIT License © Kokalasaiteja_coder | All rights reserved
